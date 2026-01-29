@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-matrix-orientation-str2enum",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the enumeration constant associated with a matrix orientation.",
   "license": "Apache-2.0",
   "author": {
@@ -77,7 +77,6 @@
     "utils",
     "util"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
