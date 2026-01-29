@@ -37,7 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-matrix-orientations": "github:stdlib-js/blas-base-matrix-orientations#main"
+    "@stdlib/blas-base-matrix-orientations": "github:stdlib-js/blas-base-matrix-orientations#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.2",
